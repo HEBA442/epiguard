@@ -1,0 +1,12 @@
+flask
+flask-cors
+mysql-connector-python
+python-dotenv
+pyjwt
+werkzeug
+joblib
+numpy
+scikit-learn
+xgboost
+firebase-admin
+zeroconf

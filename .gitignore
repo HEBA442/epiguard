@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Secrets
+serviceAccountKey.json
+*.env
+
+# Database
+*.sql
+
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+local.properties
+*.keystore
+
+# Firebase
+google-services.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
